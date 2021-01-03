@@ -3,6 +3,6 @@ Esto es una prueba de editor vi
 para el curso de Git GitHub
 
 Realizado por Mark Ortiz, siguiendo el curso en Platzi
-
+Aprendiendo mas de lo que pensaba
 
 Saludos!!
